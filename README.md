@@ -31,7 +31,7 @@ Run the main script: python "Currency Converter.py"
 Note: The application will automatically create an exchange_rates.json file upon first run if it doesn't already exist.
 
 # 🖼️ Visuals
-In visuals.png
+Check the .png files
 
 # 🔑 Skills Demonstrated
 Offline System Design, Human-Computer Interaction (HCI), Python Programming, GUI Development (tkinter), File I/O (JSON), Robust Error Handling.
